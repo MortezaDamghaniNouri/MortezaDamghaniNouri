@@ -1,4 +1,4 @@
-### Hi there, I'm Morteza Damghani Nouri 👋
+### Hi there, I'm Morteza Damghani Nouri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **Morteza-Damghani-Nouri/Morteza-Damghani-Nouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📚 I'm currently studying Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic)
 
-📫 How to reach me: mortezadamghaninouri77@gmail.com
+📫 How to reach me: mortezadamghaninouri77@gmail.com <img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png" width="30" height="30"/>
 
 ## 🛠️ Tech Stack
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
