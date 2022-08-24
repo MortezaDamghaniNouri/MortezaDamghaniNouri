@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 📚 I'm currently studying Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic)
 
 📫 How to reach me: mortezadamghaninouri77@gmail.com
+
+Languages
