@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 --> 
 📚 I'm currently studying Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic)
 
-📫 How to reach me: mortezadamghaninouri77@gmail.com
+📫 How to reach me: mortezadamghaninouri77@gmail.com ![image](https://user-images.githubusercontent.com/47036864/186347322-ec635a78-f73e-4a23-adf5-d90eb9301944.png)
+
+
 
 ### Languages
+
+
+
