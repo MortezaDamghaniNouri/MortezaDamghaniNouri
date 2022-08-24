@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
 📚 I'm currently studying Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic)
 
 📫 How to reach me: mortezadamghaninouri77@gmail.com
@@ -59,8 +60,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Damghani-Nouri&show_icons=true&theme=dracula" alt="Morteza Damghani Nouri's Github Stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Damghani-Nouri&theme=dracula&hide=html" /><br />
-
+<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Morteza-Damghani-Nouri" width="500" height="500"/>
 </p>
+
 
 
 
