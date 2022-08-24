@@ -43,10 +43,24 @@ Here are some ideas to get you started:
       alt="arduino" width="100" height="40" /> </a><a href="https://racket-lang.org/" target="_blank"
     rel="noreferrer"> <img
       src="https://racket-lang.org/logo-and-text-1-2.png"
-      width="100" height="40" />  </a>
+      width="100" height="40" />  </a><a href="https://www.linux.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"
+      alt="linux" width="50" height="40" /> </a><a href="https://www.docker.com/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"
+      alt="docker" width="70" height="40" /> </a>
+          
 </p>
 
 <br>
+
+## Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Damghani-Nouri&show_icons=true&theme=dracula" alt="Morteza Damghani Nouri's Github Stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Damghani-Nouri&theme=dracula&hide=html" /><br />
+
+</p>
 
 
 
