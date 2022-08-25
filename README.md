@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Damghani-Nouri&show_icons=true&theme=dracula" alt="Morteza Damghani Nouri's Github Stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Damghani-Nouri&show_icons=true&theme=dracula" alt="Morteza Damghani Nouri's Github Stats" height="300px" /><br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Morteza-Damghani-Nouri&langs_count=20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Morteza-Damghani-Nouri" height="300px"/>
       <br/>
