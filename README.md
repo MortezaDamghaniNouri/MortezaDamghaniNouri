@@ -61,6 +61,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Damghani-Nouri&show_icons=true&theme=dracula" alt="Morteza Damghani Nouri's Github Stats" /><br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Morteza-Damghani-Nouri&langs_count=20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Morteza-Damghani-Nouri" height="300px"/>
+      <br/>
 <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Morteza-Damghani-Nouri" width="500" height="500"/>
 </p>
 
