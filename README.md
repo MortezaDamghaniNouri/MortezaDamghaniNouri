@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 📫 How to reach me: mortezadamghaninouri77@gmail.com <img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png" width="30" height="30"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" width="15" height="15" style="margin-left: 10px;">  LinkedIn: www.linkedin.com/in/morteza-damghani-nouri
+
 ## 🛠️ Tech Stack
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
