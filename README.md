@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-📚 I got my Bachelor of Science degree from Amirkabir University of Tecgnology(Tehran Polytechnic) in Computer Engineering
+📚 I got my Bachelor of Science degree from Amirkabir University of Tecgnology (Tehran Polytechnic) in Computer Engineering
 
 <img src="https://media.istockphoto.com/id/1322548832/vector/domain-internet-web-icon-glyph-vector-isolated-on-a-white-background.webp?s=612x612&w=is&k=20&c=2b2HnnZUjH14Tr0vs9WBbzilFj5awarfN0PymUdtUlI=" width="25" height="25" style="margin-left: 10px;"> My Website: https://mortezadamghaninouri.github.io/
 
