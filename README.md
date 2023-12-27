@@ -53,8 +53,8 @@ Here are some ideas to get you started:
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"
       alt="linux" width="50" height="40" /> </a><a href="https://www.docker.com/" target="_blank"
     rel="noreferrer"> <img
-      src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"
-      alt="docker" width="70" height="40" /> </a>
+      src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png"
+      alt="docker" width="90" height="60" /> </a>
           
 </p>
 
