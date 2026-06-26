@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MortezaDamghaniNouri&langs_count=20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MortezaDamghaniNouri" height="300px"/>
       <br/>
-<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="MortezaDamghaniNouri" height="400px"/>
 </p>
 
 
